@@ -1,0 +1,24 @@
+<CodeWalkerProject>
+  <Name>Ruislip Ambulance Station</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>hei_cs1_roads_pb_critical_0.ymap</Item>
+    <Item>hei_cs1_06_strm_0.ymap</Item>
+    <Item>hei_cs1_06_strm_1.ymap</Item>
+    <Item>hei_cs1_roads_pb_strm_2.ymap</Item>
+    <Item>ruislip ambulance.ymap</Item>
+    <Item>cs1_occl_09.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames>
+    <Item>cs1_06_0.ybn</Item>
+    <Item>cs1_roads_pb_0.ybn</Item>
+  </YbnFilenames>
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames>
+    <Item>paleto_bay.ymt</Item>
+  </ScenarioFilenames>
+  <AudioRelFilenames />
+</CodeWalkerProject>
