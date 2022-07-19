@@ -1,0 +1,34 @@
+<CodeWalkerProject>
+  <Name>Fixfloatytings</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>id1_13.ymap</Item>
+    <Item>bkr_id1_13.ymap</Item>
+    <Item>id1_rd_strm_4.ymap</Item>
+    <Item>bkr_id1_rd_strm_4.ymap</Item>
+    <Item>bkr_id1_13_strm_0.ymap</Item>
+    <Item>id1_13_strm_0.ymap</Item>
+    <Item>id1_13_long_0.ymap</Item>
+    <Item>bkr_id1_rd_strm_3.ymap</Item>
+    <Item>id1_rd.ymap</Item>
+    <Item>bkr_id1_13_long_0.ymap</Item>
+    <Item>id1_rd_strm_3.ymap</Item>
+    <Item>bkr_id1_rd_long_0.ymap</Item>
+    <Item>id1_rd_long_0.ymap</Item>
+    <Item>bkr_id1_rd.ymap</Item>
+    <Item>id1_lod.ymap</Item>
+    <Item>bkr_id1_lod.ymap</Item>
+    <Item>buildingsite.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+  <YdrFilenames />
+  <YddFilenames />
+  <YftFilenames />
+  <YtdFilenames />
+</CodeWalkerProject>
