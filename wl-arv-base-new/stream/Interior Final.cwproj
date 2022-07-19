@@ -1,0 +1,18 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>id1_23_strm_0.ymap</Item>
+    <Item>ddd.ymap</Item>
+    <Item>wl_arv_base_ymap.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>wl_arv_base_ytyp.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>

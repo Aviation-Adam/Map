@@ -1,0 +1,25 @@
+<CodeWalkerProject>
+  <Name>Exterior Fix</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>bkr_id1_23_strm_0.ymap</Item>
+    <Item>bkr_id1_rd_long_1.ymap</Item>
+    <Item>bkr_id1_rd_strm_5.ymap</Item>
+    <Item>bkr_id1_rd_strm_4.ymap</Item>
+    <Item>bkr_id1_rd.ymap</Item>
+    <Item>bkr_id1_rd_critical_0.ymap</Item>
+    <Item>bkr_id1_17_strm_0.ymap</Item>
+    <Item>bkr_id1_24_strm_0.ymap</Item>
+    <Item>bkr_id1_23_long_0.ymap</Item>
+    <Item>bkr_id1_rd_long_0.ymap</Item>
+    <Item>bkr_id1_rd_strm_3.ymap</Item>
+    <Item>default\id1_rd_strm_5.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames />
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>
