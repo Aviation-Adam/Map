@@ -1,0 +1,21 @@
+<CodeWalkerProject>
+  <Name>New CodeWalker Project</Name>
+  <Version value="1" />
+  <YmapFilenames>
+    <Item>wl_custody_ymap_.ymap</Item>
+    <Item>hei_hw1_rd_critical_1.ymap</Item>
+    <Item>hei_hw1_09_strm_0.ymap</Item>
+    <Item>hw1_09_strm_0.ymap</Item>
+    <Item>wl_custody_exterior_.ymap</Item>
+    <Item>hw1_rd_strm_6.ymap</Item>
+  </YmapFilenames>
+  <YtypFilenames>
+    <Item>wl_custody_ytyp.ytyp</Item>
+  </YtypFilenames>
+  <YbnFilenames />
+  <YndFilenames />
+  <YnvFilenames />
+  <TrainsFilenames />
+  <ScenarioFilenames />
+  <AudioRelFilenames />
+</CodeWalkerProject>
